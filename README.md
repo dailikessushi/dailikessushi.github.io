@@ -2,6 +2,6 @@ A Nipponese who is
 - Loving GNU/[Linux](https://dak.f5.si/)es
 - Learning
   - 3D Graphics
-    - [C++](https://stroustrup.com/C++.html),
+    - [C++](https://stroustrup.com/C++.html)
     - [Vulkan](https://www.vulkan.org/) API
-  -  and 汉语
+  -  汉语
