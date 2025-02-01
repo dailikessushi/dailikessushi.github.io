@@ -1,3 +1,3 @@
 A Nipponese who is
-- loving GNU/Linuxes
-- learning 3D Graphics and 汉语
+- loving GNU/[Linux](https://dak.f5.si/)es
+- learning 3D Graphics(C++, Vulkan API) and 汉语
