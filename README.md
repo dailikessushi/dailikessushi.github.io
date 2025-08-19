@@ -1,4 +1,4 @@
-# Related to Graphics
+# Links Related to Graphics
 
 ## APIs
 - [OpenGL](https://www.opengl.org/)
