@@ -1,12 +1,20 @@
 # Links related to Graphics
 
+## Languages
+- [The C++ Programming Language](https://www.stroustrup.com/C++.html)
+  - [C++ reference](https://en.cppreference.com/w/cpp.html)
+    - [cpprefjp - C++日本語リファレンス](https://cpprefjp.github.io/)
+  - [cplusplus.com](https://cplusplus.com/)
+  - [Standard C++](https://isocpp.org/)
+  - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+  - [Bjarne Stroustrup's homepage](https://stroustrup.com/)
+
 ## APIs
 - [OpenGL](https://www.opengl.org/)
   - [Learn OpenGL](https://learnopengl.com/)
 - [Vulkan](https://www.vulkan.org/)
   - [LunarXchage(Vulkan SDK)](https://vulkan.lunarg.com/)
   - [Vulkan Tutorial](https://vulkan-tutorial.com/)
-
 
 ## Tools
 ### Free
