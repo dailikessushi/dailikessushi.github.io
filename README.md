@@ -1,4 +1,4 @@
-# Related to Graphics.
+# Related to Graphics
 ## API
 - [OpenGL](https://www.opengl.org/)
   - [Learn OpenGL](https://learnopengl.com/)
