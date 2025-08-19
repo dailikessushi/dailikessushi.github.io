@@ -1,6 +1,6 @@
 # Related to Graphics
 
-## API
+## APIs
 - [OpenGL](https://www.opengl.org/)
   - [Learn OpenGL](https://learnopengl.com/)
 - [Vulkan](https://www.vulkan.org/)
