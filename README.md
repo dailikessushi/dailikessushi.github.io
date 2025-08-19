@@ -23,6 +23,6 @@
 
 ### Proprietary
 - [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
-  - [Autodesk Maya Japanese](https://www.autodesk.com/jp/products/maya/overview)
+  - [Autodesk Maya 日本](https://www.autodesk.com/jp/products/maya/overview)
 - [Autodesk 3ds Max](https://www.autodesk.com/products/3ds-max/overview)
-  - [Autodesk 3ds Max Japanese](https://www.autodesk.com/jp/products/3ds-max/overview)
+  - [Autodesk 3ds Max 日本](https://www.autodesk.com/jp/products/3ds-max/overview)
