@@ -3,9 +3,9 @@
 ## Languages
 - [The C++ Programming Language](https://www.stroustrup.com/C++.html)
   - [Bjarne Stroustrup's homepage](https://stroustrup.com/)
+  - [cplusplus.com](https://cplusplus.com/)
   - [C++ reference](https://en.cppreference.com/w/cpp.html)
     - [cpprefjp - C++日本語リファレンス](https://cpprefjp.github.io/)
-  - [cplusplus.com](https://cplusplus.com/)
   - [Standard C++](https://isocpp.org/)
   - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
