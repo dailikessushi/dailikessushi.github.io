@@ -1,5 +1,13 @@
 # Links related to Graphics
 
+## APIs
+- [Vulkan](https://www.vulkan.org/)
+  - [How to Vulkan in 2026](https://howtovulkan.com/)
+  - [LunarXchage (Vulkan SDK)](https://vulkan.lunarg.com/)
+  - [Vulkan Tutorial](https://vulkan-tutorial.com/)
+- [OpenGL](https://www.opengl.org/)
+  - [Learn OpenGL](https://learnopengl.com/)
+
 ## Languages
 - [The C++ Programming Language](https://www.stroustrup.com/C++.html)
   - [Bjarne Stroustrup's homepage](https://stroustrup.com/)
@@ -9,14 +17,6 @@
     - [cpprefjp - C++日本語リファレンス](https://cpprefjp.github.io/)
   - [Standard C++](https://isocpp.org/)
   - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-
-## APIs
-- [OpenGL](https://www.opengl.org/)
-  - [Learn OpenGL](https://learnopengl.com/)
-- [Vulkan](https://www.vulkan.org/)
-  - [LunarXchage (Vulkan SDK)](https://vulkan.lunarg.com/)
-  - [Vulkan Tutorial](https://vulkan-tutorial.com/)
-  - [How to Vulkan in 2026](https://howtovulkan.com/)
 
 ## Tools
 ### Free
