@@ -16,6 +16,7 @@
 - [Vulkan](https://www.vulkan.org/)
   - [LunarXchage (Vulkan SDK)](https://vulkan.lunarg.com/)
   - [Vulkan Tutorial](https://vulkan-tutorial.com/)
+  - [How to Vulkan in 2026](https://howtovulkan.com/)
 
 ## Tools
 ### Free
