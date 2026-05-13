@@ -27,7 +27,7 @@ https://registry.khronos.org/vulkan/specs/latest/html/vkspec.html[Vulkan仕様�
 
 == Vulkanの主なサイト
 
-https://www.vulkan.org/[Home | Vulkan | Cross platform 3D Graphics (www.vulkan.org)]
-https://docs.vulkan.org/[Vulkan Documentation Project]
-https://howtovulkan.com/[How to Vulkan in 2026]
-https://qiita.com/shibainuudon/items/6159d3745336f984bd03[Vulkan Tutorial (Introduction) 日本語訳]
+* https://www.vulkan.org/[Home | Vulkan | Cross platform 3D Graphics (www.vulkan.org)]
+* https://docs.vulkan.org/[Vulkan Documentation Project]
+* https://howtovulkan.com/[How to Vulkan in 2026]
+* https://qiita.com/shibainuudon/items/6159d3745336f984bd03[Vulkan Tutorial (Introduction) 日本語訳]
