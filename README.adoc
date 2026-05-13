@@ -1,0 +1,33 @@
+:lang: ja
+:doctype: book
+:toc: left
+:toclevels: 3
+:toc-title: 目次
+:sectnums:
+:sectnumlevels: 4
+:sectlinks:
+:imagesdir: ./images
+:icons: font
+:source-highlighter: coderay
+:example-caption: 例
+:table-caption: 表
+:figure-caption: 図
+:docname: = Vulkan日本
+:author: Daisuke
+
+= Vulkan日本
+
+== Vulkanとは？
+
+Vulkanとは、 https://www.khronos.org/[クロノス・グループ]によって定められた、クロスプラットホームの低レベルグラフィックスと計算を明示的に制御するために設計された http://www.open-std.org/jtc1/sc22/wg14/www/standards[C99] API(アプリケーションプログラミングインターフェース)です。
+
+== Vulkan仕様書
+
+https://registry.khronos.org/vulkan/specs/latest/html/vkspec.html[Vulkan仕様書]
+
+== Vulkanの主なサイト
+
+https://www.vulkan.org/[Home | Vulkan | Cross platform 3D Graphics (www.vulkan.org)]
+https://docs.vulkan.org/[Vulkan Documentation Project]
+https://howtovulkan.com/[How to Vulkan in 2026]
+https://qiita.com/shibainuudon/items/6159d3745336f984bd03[Vulkan Tutorial (Introduction) 日本語訳]
