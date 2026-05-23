@@ -2,7 +2,7 @@
 
 ## Vulkanとは？
 
-Vulkanとは、[クロノス・グループ](https://www.khronos.org/)によって定められた、クロスプラットフォームの低レベルグラフィックスと計算を明示的に制御するために設計された[C99](http://www.open-std.org/jtc1/sc22/wg14/www/standards) API(アプリケーション・プログラミング・インターフェース)です。
+Vulkanとは、[クロノス・グループ](https://www.khronos.org/)によって定められた、クロスプラットフォームで低レベルグラフィックスと計算を明示的に制御するために設計された[C99](http://www.open-std.org/jtc1/sc22/wg14/www/standards) API(アプリケーション・プログラミング・インターフェース)です。
 
 ## 最新のVulkan仕様書
 
