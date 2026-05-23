@@ -10,7 +10,7 @@ Vulkanとは、[クロノス・グループ](https://www.khronos.org/)によっ�
 
 ## Vulkanの主なサイト
 
-* [Home | Vulkan | Cross platform 3D Graphics (www.vulkan.org)](https://www.vulkan.org/)
+* [Home of Vulkan - Cross platform 3D Graphics (www.vulkan.org)](https://www.vulkan.org/)
 * [Vulkan Documentation Project](https://docs.vulkan.org/)
 * [How to Vulkan in 2026](https://howtovulkan.com/)
 * [Vulkan Tutorial (Introduction) 日本語訳](https://qiita.com/shibainuudon/items/6159d3745336f984bd03)
